@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\works\backend\15.07.19Delegate\15.07.19Delegate\bin\Debug\15.07.19Delegate.exe
+C:\Users\Admin\Desktop\works\backend\15.07.19Delegate\15.07.19Delegate\bin\Debug\15.07.19Delegate.pdb
+C:\Users\Admin\Desktop\works\backend\15.07.19Delegate\15.07.19Delegate\obj\Debug\15.07.19Delegate.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\works\backend\15.07.19Delegate\15.07.19Delegate\obj\Debug\15.07.19Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\works\backend\15.07.19Delegate\15.07.19Delegate\obj\Debug\15.07.19Delegate.exe
+C:\Users\Admin\Desktop\works\backend\15.07.19Delegate\15.07.19Delegate\obj\Debug\15.07.19Delegate.pdb
